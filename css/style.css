@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+canvas{
+    margin-top: 5px;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+div{
+    margin-top: 20px;
+}
+
+button{
+    background-color: rgb(36, 131, 219);
+    height: 40px;
+    width: 50px;
+    border-color:rgb(36, 131, 219) ;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+.reload{
+    border-color: black;
+    background-color: black;
+    width: 200px;
+}
