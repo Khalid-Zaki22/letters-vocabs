@@ -36,7 +36,7 @@ let words = [
 
 let imgs = [
 
-    "apple.jpeg", "animal.jpg", "ant.jpeg",
+    "apple.jpeg", "animal.png", "ant.png",
 
 
     "book.jpg", "boy.jpeg", "ball.jpg",
