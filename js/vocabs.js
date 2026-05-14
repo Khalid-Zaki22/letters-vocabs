@@ -39,7 +39,7 @@ let imgs = [
     "apple.jpeg", "animal.jpg", "ant.jpeg",
 
 
-    "book.jpg", "boy.jpg", "ball.jpg",
+    "book.jpg", "boy.jpeg", "ball.jpg",
 
 
     "cat.jpg", "car.jpeg", "cold.jpg",
